@@ -31,5 +31,6 @@
   <h5>Pinned Repos</h1>
   <div>
     <a href="https://github.com/ngochuytu/facebook-clone-source"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ngochuytu&repo=facebook-clone-source" /></a>
+    <a href="https://github.com/ngochuytu/react-pagination"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ngochuytu&repo=react-pagination" /></a>
   </div>
 </div>
